@@ -31,5 +31,9 @@ Use with:
 npm install -g truffle ganache
 mkdir battery-project && cd battery-project
 truffle init
+```
+## 🚀 Deploy
 
+truffle compile
+truffle migrate --network development
 
