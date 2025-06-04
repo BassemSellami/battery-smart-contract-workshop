@@ -19,6 +19,12 @@ Use with:
 - [Remix IDE](https://remix.ethereum.org)
 - Truffle + Ganache for local deployment
 
+## 🧠 Suggested Activities
+
+- Add stateful storage of logs
+- Add filtering and querying
+- Improve access control and multi-user permissions
+  
 ## 🔧 Setup
 
 ```bash
@@ -26,8 +32,4 @@ npm install -g truffle ganache
 mkdir battery-project && cd battery-project
 truffle init
 
-## 🧠 Suggested Activities
 
-- Add stateful storage of logs
-- Add filtering and querying
-- Improve access control and multi-user permissions
